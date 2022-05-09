@@ -1,0 +1,84 @@
+10:14:15.602 [main] INFO  cn.edu.jxnu.server.ServerApplication - Starting ServerApplication using Java 1.8.0_241 on hanhan with PID 18804 (E:\ProjectJava\CloudDrawing\server\target\classes started by Asus in E:\ProjectJava\CloudDrawing\server)
+10:14:15.604 [main] INFO  cn.edu.jxnu.server.ServerApplication - The following 1 profile is active: "dev"
+10:14:16.643 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4000 (http)
+10:14:16.650 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-4000"]
+10:14:16.650 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:14:16.650 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+10:14:16.790 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:14:16.790 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1153 ms
+10:14:17.418 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+10:14:17.479 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-4000"]
+10:14:17.493 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 4000 (http) with context path ''
+10:14:17.657 [main] INFO  cn.edu.jxnu.server.ServerApplication - Started ServerApplication in 2.562 seconds (JVM running for 3.617)
+10:16:11.328 [http-nio-4000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:16:11.328 [http-nio-4000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+10:16:11.329 [http-nio-4000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+10:16:11.377 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:16:11.391 [http-nio-4000-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - hanhan - Starting...
+10:16:11.942 [http-nio-4000-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - hanhan - Start completed.
+10:35:14.204 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:42:54.446 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:43:39.510 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:43:51.173 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:43:58.910 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:45:44.177 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:48:41.591 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:49:14.162 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:54:08.272 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+10:54:52.234 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:00:41.717 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:01:05.158 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:01:22.658 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:04:09.382 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:04:11.379 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:05:01.320 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:05:03.792 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:05:35.653 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:05:38.468 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:05:45.745 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:06:06.304 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:06:09.207 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:08:19.026 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:08:23.533 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:08:40.879 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:08:43.702 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:08:48.130 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:09:15.204 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:09:30.810 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:12:53.801 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:12:56.152 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:13:13.149 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:13:23.732 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:13:38.892 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:13:46.639 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:13:50.262 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:14:18.576 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:14:41.286 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:14:43.159 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:16:20.954 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:16:57.250 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:17:49.196 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:18:37.203 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:20:17.166 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:20:32.714 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:21:32.248 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:22:16.702 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:22:58.992 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:23:34.080 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:23:41.512 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:24:28.939 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:24:31.893 [http-nio-4000-exec-4] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+11:25:24.450 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+18:59:10.685 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:13:26.075 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:25:38.259 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:25:38.273 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询第0页的日记信息=====
+19:25:40.758 [http-nio-4000-exec-9] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:25:40.769 [http-nio-4000-exec-10] INFO  c.e.j.s.controller.UserController - =====查询第0页的日记信息=====
+19:25:51.188 [http-nio-4000-exec-1] INFO  c.e.j.s.controller.UserController - =====查询2用户的通知信息=====
+19:25:55.231 [http-nio-4000-exec-3] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:25:55.324 [http-nio-4000-exec-2] INFO  c.e.j.s.controller.UserController - =====查询用户2的粉丝数量=====
+19:25:55.324 [http-nio-4000-exec-5] INFO  c.e.j.s.controller.UserController - =====查询第0页的日记信息=====
+19:25:55.536 [http-nio-4000-exec-6] INFO  c.e.j.s.controller.UserController - =====查询用户2的相册图片=====
+19:25:57.221 [http-nio-4000-exec-7] INFO  c.e.j.s.controller.UserController - =====查询2用户是否有新通知=====
+19:25:57.233 [http-nio-4000-exec-8] INFO  c.e.j.s.controller.UserController - =====查询第0页的日记信息=====
